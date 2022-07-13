@@ -1,0 +1,42 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color:#eee;
+}
+#main {
+    text-align: center;
+    padding: 1rem;
+
+}
+.img-div {
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px black solid ;
+    background-color: white;
+    border-color: white;
+    margin: 0;
+}
+
+
+#image {
+    max-width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.h2 {
+    margin: 30px -1rem;
+}
+ul {
+   
+    list-style-position: inside;
+    max-width: 250px;
+    margin: auto auto 50px auto;
+    text-align: left;
+    
+}
+
+li {
+    margin: 10px 0 ;
+}
+.nn {
+    display: block;
+    margin: 2rem auto 3rem auto;
+}
